@@ -1,4 +1,4 @@
-# dwl - dwm for Wayland
+# A personal fork of dwl - dwm for Wayland
 
 Join us on our IRC channel: [#dwl on Libera Chat]  
 Or on the community-maintained [Discord server].
